@@ -5,10 +5,11 @@
 - 💞️ I’m looking to collaborate on ... 
 - 🏠 Brazil - João Pinheiro - MG
 
-## Hi, I'm Lucas Rocha!
+## Contact Us!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasRochaDosSantos)](https://github.com/LucasRochaDosSantos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/LucasRochaDosSantos/)](https://www.linkedin.com/in/lrdns/)
+
 
 ### About me
 I'm a {backend, frontend} developer and ``Java - JS ``
